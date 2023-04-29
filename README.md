@@ -1,2 +1,2 @@
 # hello-msac-cisw-31
-This repo is for CISW-31
+This page was updated on the web.
